@@ -2,8 +2,8 @@
 # Project3
 
 This represent the project3 info which contains 
-# html 
+# html. 
 
-# css  
+# css. 
 
-# Javascript
+# Javascript.
